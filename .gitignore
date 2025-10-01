@@ -1,6 +1,4 @@
-# -----------------------------
-# Python
-# -----------------------------
+
 __pycache__/
 *.py[cod]
 *.pyo
@@ -51,4 +49,4 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
-**/exec/
+exec/
