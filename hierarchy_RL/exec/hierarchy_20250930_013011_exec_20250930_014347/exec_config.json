@@ -1,9 +1,0 @@
-{
-  "source_run": "/home/dongmingwang/project/Hierarchy/hierarchy_RL/results/hierarchy_20250930_013011",
-  "episodes": 3,
-  "max_steps_per_ep": 200,
-  "k_update": 5,
-  "device": "cuda",
-  "fps": 8,
-  "out_dir": "/home/dongmingwang/project/Hierarchy/hierarchy_RL/exec/hierarchy_20250930_013011_exec_20250930_014347"
-}
