@@ -1,0 +1,53 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+*.egg-info/
+.eggs/
+
+# Distribution / packaging
+build/
+dist/
+pip-wheel-metadata/
+*.egg
+*.whl
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Results folders (all levels)
+**/results/
+
+# Optional: pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/

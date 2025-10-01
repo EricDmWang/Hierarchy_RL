@@ -1,0 +1,4 @@
+Results Record: run_13 with general setting and random seed 1
+                run_14 -> seed 73
+                run_15 -> seed 100
+                run_25-run_29 -> seed 1-5
